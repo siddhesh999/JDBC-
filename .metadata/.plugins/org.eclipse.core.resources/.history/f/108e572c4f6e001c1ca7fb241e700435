@@ -1,0 +1,5 @@
+package pg.kumuda.jdbcpractice;
+
+public class AllJDBCOperation {
+
+}

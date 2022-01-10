@@ -1,0 +1,5 @@
+package mock.jdbc.practice;
+
+public class PreparedStatement {
+
+}
